@@ -1,0 +1,25 @@
+[worldserver]
+
+#
+###################################################################################################
+
+###################################################################################################
+#
+# Reforging ANNOUNCE
+#
+#     ReforgingAnnounce.enable
+#        Announce the module on login
+#        Default:     1 (1 = ON, 0 = OFF)
+
+ReforgingAnnounce.enable=1
+
+#
+# Reforging OPTIONS
+#
+#     Reforging.enable
+#        Enable/Disable the Reforging system
+#        Default:     1 (1 = ON, 0 = OFF)
+
+Reforging.enable=1
+
+
